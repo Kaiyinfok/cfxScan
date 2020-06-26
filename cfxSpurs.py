@@ -4,6 +4,7 @@ Created on Mon Mar-10 2020
 Successfully pushed to github repo 6/25/2020
 Trying ssh key
 using remote laptop to FSW
+delete ssh key
 
 @author: wfok
 """
